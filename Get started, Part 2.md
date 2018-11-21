@@ -125,7 +125,7 @@ friendlyhello       latest              07277397b5c6        6 seconds ago       
  
  그러면 제대로 되었는지 인터넷 브라우저 창에 http://localhost:4000 를 입력하여 확인해봅시다.
  
- <그림>
+ ![](/picture/1.png)
 
  또는 ```curl```명령을 통해서도 확인이 가능합니다.
  ```
@@ -228,7 +228,7 @@ docker push hansol/get-started:part2
 
 완료가 되면 도커허브(hub.docker.com)에 들어가서 업로드가 제대로 되었는지 확인 할 수 있습니다.
 
-<그림>
+![](/picture/2.png)
 
 ## 이미지 다운로드 및 실행
 이제 원격저장소에 업로드된 이미지를 누구나 다운받아 모든 컴퓨터에서 실행할 수 있습니다.
